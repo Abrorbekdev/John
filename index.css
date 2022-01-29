@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(233, 233, 233);
+}
+.container{
+    background-color: #fff;
+    height: 2141px;
+    width: 1152px;
+    margin: 0 auto;
+}
+
+.navbar ul{
+    display: flex;
+    margin-left: 856px;
+    margin-right: 60px;
+    
+}
+
+.navbar li{
+    font-weight: 500;
+    list-style-type: none ;
+    margin-top: 27px;
+    margin-right: 33px;
+    font-family: Heebo;
+    font-size: 20px;
+}
+
+.John{
+    display: flex;
+}
+
+.amet{
+    height: 66px;
+    width: 497px;
+    margin-left: 148px;
+    margin-top: 40px;
+    font-weight: 400;
+    font-family: Heebo;
+    font-size: 16px;
+    margin-bottom: 47px;
+}
+.name{
+    font-weight: 500;
+    margin-top: 158px;
+    margin-left: 148px;
+    font-family: Heebo;
+    font-size: 44px;
+    height: 105px;
+    width: 506px;
+}
+
+.imgg{
+    margin-top: 140px;
+    margin-left: 106px;
+}
+
+.button{
+    width: 208px;
+    height: 47px;
+    background-color: #FF6464;
+    text-decoration: none;
+    color: white;
+    font-family: Heebo;
+    font-size: 20px;
+    margin-left: 148px;
+    padding-left: 20px;
+    padding-top: 9px;
+    padding-right: 21px;
+    padding-bottom: 17px;
+    border-radius: 2px;
+   
+}
+
+
+.text{
+    width: 129px;
+height: 60px;
+font-family: Heebo;
+font-size: 22px;
+}
+
+.posts{
+    height: 396px;
+    width: 1152px;
+    background-color: #EDF7FA;
+    margin-top: 90px;
+    display: flex;
+}
+
+.blockone{
+    margin-left: 148px;
+    height: 295px;
+    width: 418px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.blocktwo{
+    margin-left: 20px;
+    height: 295px;
+    width: 418px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+.a{
+    margin-top: 50px;
+    display: flex;
+    margin-right: 148px;
+    
+}
+
+.blockonetext{
+width: 374px;
+height: 85px;
+font-family: Heebo;
+font-style: normal; 
+font-weight: bold;
+font-size: 26px;
+line-height: 38px;
+font-weight: 600;
+margin-left: 23px;
+margin-top: 24px;
+}
+
+.data{
+    width: 374px;
+height: 34px;
+font-family: Heebo;
+font-size: 18px;
+color: #21243D;
+margin-left: 25px;
+
+}
+.l{
+    width: 368px;
+height: 117px;
+font-family: Heebo;
+font-size: 16px;
+font-weight: 400;
+margin-left: 23px;
+}
+
+
+.features{
+    width: 152px;
+height: 60px;
+font-family: Heebo;
+font-size: 22px;
+color: #21243D;  
+margin-left: 148px;
+margin-top: 15px;
+}
+
+.design{
+    display: flex;
+    margin-left: 146px;
+}
+
+.textlastone{
+    width: 305px;
+height: 44px;
+font-family: Heebo;
+font-weight: 700;
+color: #21243D;
+font-size: 30px;
+margin-left: 18px;
+margin-top: -7px;
+}
+
+.aaaaaa{
+    margin-top: 20px;
+    font-family: Heebo;
+    background: #142850;
+    border-radius: 16px;
+    font-weight: 900;
+    color: white;
+    font-size: 18px;
+    width: 62px;
+    height: 25px;
+    padding-left: 10px;
+    margin-bottom: 22px;
+
+}
+
+.aammeett{
+    width: 594px;
+height: 93px;
+font-size: 16px;
+font-family: Heebo;
+color: #21243D;
+font-weight: 400;
+margin-top: 17px;
+}
+
+.vibrant{
+    margin-top: 46px;
+    display: flex;
+    margin-left: 146px;
+}
+
+.textlasttwo{
+    width: 337px;
+height: 44px;
+font-family: Heebo;
+font-size: 30px;
+color: #21243D;
+font-weight: 700;
+margin-left: 18px;
+}
+
+.day{
+    display: flex;
+    margin-top: 66px;
+    margin-left: 146px;
+}
+
+.textlastthree{
+    width: 365px;
+height: 44px;
+font-size: 30px;
+font-size: 30px;
+font-family: Heebo;
+font-weight: 700;
+color: #21243D;
+margin-left: 18px;
+}
+
+hr{
+    width: 858px;
+height: 0px;
+margin-top: 35px;
+margin-bottom: 31px;
+margin-left: 146px;
+}
+
+.icons{
+    margin-top: 134px;
+    width: 1152px;
+    height: 3182px;
+    margin-left: 459px;
+    
+}
+
+.fb{
+    margin-right: 35px;
+}
+
+.insta{
+    margin-right: 35px;
+}
+
+.twitter{
+    margin-right: 35px;
+}
+
+.linkedin{
+    margin-right: 35px;
+}
+
+.theend{
+    font-family: Heebo;
+    font-size: 14px;
+    font-weight: 400;
+    height: 21px;
+    width: 222px;
+    margin-left: 464px;
+    margin-top: 26px;
+}
+
+.idontknow{
+    font-family: Heebo;
+    font-weight: 500;
+    font-size: 14px;
+    color: #21243D;
+    height: 21px;
+    width: 322px;
+    margin-top: 26px;
+}
